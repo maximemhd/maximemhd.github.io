@@ -109,7 +109,7 @@
 			    	<div class="hsContainer">
 				    	<div class="hsContent" data-100-bottom="opacity: 0;" data-bottom="opacity: 1;" data-anchor-target="#slide-5">
 				    		<h2>The End</h2>
-				    		<p></p>
+				    		<p>Not enough parallax goodness? Let me know in the comments or hit me up at <a href="https://www.twitter.com/ihatetomatoes" target="_blank">@ihatetomatoes</a>.</p>
 			    		</div>
 			    	</div>
 		    	</div>
@@ -117,7 +117,7 @@
 
 		</main>
 
-        <script src="js/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
         <script src="js/imagesloaded.js"></script>
         <script src="js/waypoints.min.js"></script>
