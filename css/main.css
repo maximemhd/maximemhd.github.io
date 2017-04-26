@@ -84,12 +84,13 @@ h2 {
   font-weight: normal;
 }
 .entry-header .inner {
-  text-align: left;
-  margin: 0 auto 10px auto;
-  width: 600px;
+  /*text-align: left;*/
+  display: block;
+  margin: auto auto 10px auto;
+  width: 100%;
 }
-.entry-header { padding-top: 5px; background-color: rgba(0,0,0,0.4);; width:100%; position: fixed; top: 0; left: 0; z-index: 999999}
-
+.entry-header { padding-top: 5px;  width:100%; position: fixed; top: 0; left: 0; z-index: 999999; }
+.entry-title {color: #ffa700;}
 hr {
     display: block;
     height: 1px;
