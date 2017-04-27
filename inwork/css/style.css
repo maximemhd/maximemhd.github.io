@@ -1,0 +1,112 @@
+html, button, input, select, textarea {
+  color: #222;
+}
+
+html {}
+
+body {
+  font-size: 1em;
+  line-height: 1.4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #abc;
+  /*padding-left: 10px;*/
+  display: inline;
+  width: 100%;
+}
+
+.title {
+  display: block;
+  float: left;
+  padding-left: 10%;
+}
+
+.entry-title {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.3em;
+  line-height: 50px;
+  height: 50px;
+  padding-right: 15px;
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+
+.nav ul {
+  list-style: none;
+  background-color: #abc;
+  text-align: right;
+  padding: 0;
+  margin: 0px 0px 0px 0px;
+}
+
+.nav li {
+
+  font-size: 1.1em;
+  line-height: 50px;
+  height: 50px;
+  padding-right: 15px;
+  background-color: #abc;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+
+.nav a:hover {
+  color: #005f5f;
+}
+
+@media screen and (min-width: 600px) {
+  .nav li {
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.2em;
+  }
+  /* Option 1 - Display Inline */
+  .nav li {
+    display: inline-block;
+  }
+}
+
+main {}
+
+section {
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 10%;
+  margin: 0;
+  width: 100%;
+}
+
+#slide-0 {
+  background-color: #fff;
+}
+
+#slide-1 {
+  background-color: #6fb6e4;
+}
+
+#slide-2 {
+  background-color: #339cfe;
+  color: #fff;
+}
+
+.left{
+  display: block;
+  float: left;
+  width: 40%;
+}
+
+.right{
+  display: block;
+}
