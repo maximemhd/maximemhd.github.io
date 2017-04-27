@@ -97,10 +97,14 @@ section {
 }
 
 #slide-2 {
-  background-color: #339cfe;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
 }
 
+#slide-3 {
+  background-color: rgb(64, 64, 64);
+  color: #fff;
+}
 .left{
   display: block;
   float: left;
