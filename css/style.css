@@ -51,6 +51,8 @@ header {
   height: 50px;
   padding-right: 15px;
   background-color: #abc;
+  display: inline-block;
+
 }
 
 .nav a {
@@ -62,19 +64,6 @@ header {
 
 .nav a:hover {
   color: #005f5f;
-}
-
-@media screen and (min-width: 600px) {
-  .nav li {
-    border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.2em;
-  }
-  /* Option 1 - Display Inline */
-  .nav li {
-    display: inline-block;
-  }
 }
 
 main {}
