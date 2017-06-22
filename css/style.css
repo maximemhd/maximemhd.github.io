@@ -102,6 +102,12 @@ section {
 #slide-5 {
   background-color: #fff;
 }
+
+#footer {
+  min-height: 0;
+  margin:0;
+  
+}
 .left{
   display: block;
   float: left;
