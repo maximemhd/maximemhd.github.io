@@ -117,8 +117,11 @@ section {
   display: block;
   float: left;
   width: 40%;
+  min-height: 100px;
 }
 
 .right{
   display: block;
+  min-height: 100px;
+
 }
