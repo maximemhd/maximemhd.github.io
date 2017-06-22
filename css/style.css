@@ -21,7 +21,7 @@ header {
 .title {
   display: block;
   float: left;
-  padding-left: 10%;
+  padding-left: 7%;
 }
 
 .entry-title {
@@ -80,7 +80,7 @@ header {
 main {}
 
 section {
-  padding-left: 10%;
+  padding-left: 7%;
   padding-top: 5%;
   padding-bottom: 5%;
   padding-right: 10%;
