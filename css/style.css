@@ -118,6 +118,7 @@ section {
   float: left;
   width: 40%;
   min-height: 100px;
+  margin-right:40px;
 }
 
 .right{
